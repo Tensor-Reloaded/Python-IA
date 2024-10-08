@@ -1,0 +1,4 @@
+Acesta este un fisier de test, cu mai multe randuri.
+
+Un rand liber
+Final fisier
